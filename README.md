@@ -13,7 +13,8 @@ Jin Furai and his discord server members (link: https://discord.gg/7yEUUwA) for 
 Aradi147 for originally making Cope Mod. https://github.com/Aradi147/MHGUCope/tree/main
 Vaccaria for fixing Blast Dash in the original Cope Mod.
 
-MHGUCope Changes:
+(Most of the changes re originally from Cope Mod.)
+MHGUCopium Changes:
 
 All MV changes for non-art attacks are also art build up changes.
 Alchemy Fireball damage increased from 60 to 350. Have fun one shotting LR Great Maccao with starting gear or whatever.
@@ -38,6 +39,9 @@ Aerial SAED MV buffed from 100 to 130.
 Aerial SAED (no phials) MV buffed from 60 to 90.
 Energy blade MV buffed from 10/20/30 with no phials to 50/60/80.
 
+Charge Blade Move Changes:
+No longer does a Quick Shield Charge after a shield thrust, Now does an AED/UAED (X+A > X+A > X+A)
+
 Lance:
 Mid Thrust MVs buffed from 20/20/25 to 26/26/35.
 High Thrust MVs buffed from 22/22/27 to 28/28/35.
@@ -55,6 +59,10 @@ Shield Assualt neutral stop MV buffed from 30 to 55. Exhaust and KO build up inc
 Corkscrew Jab MV buffed from 45*3/32*5/27*7 =135/160/189 to 50*3/35*5/30*3=150/175/210.
 Valor Style GP shield bash MV buffed from 20 to 25. KO and Exhaust buffed from 27 to 35.
 Enraged Guard buff decreased from 1.1/1.2/1.3 to 1.05/1.1/1.15.
+
+Lance Move Changes:
+Guild, Aerial, Adept, Alchemy, Valor:
+No longer does the long 3rd Poke and now does a regular poke like Striker.
 
 Switch Axe:
 Power phial modifier decreased from 1.2 to 1.1.
