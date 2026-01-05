@@ -13,7 +13,7 @@ Now has a infinite Strong Pound combo with X.
 No longer does a Spinning Hook during a Top Spin, now does a Golf Swing.
 No longer does a Hook after releasing a Level 3 Charge after jumping from a ledge, now does a Golf Swing.
 
-Heavy Bowgun:
+Bowguns:
 Pellet 1/2/3 now have Motion Values of 11/9/9.
 
 
