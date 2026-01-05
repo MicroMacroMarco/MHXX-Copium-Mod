@@ -11,7 +11,7 @@ All styles now has Striker's 3rd poke instead of the Long 3rd poke.
 Hammer Striker:
 Now has a infinite Strong Pound combo with X.
 No longer does a Spinning Hook during a Top Spin, now does a Golf Swing.
-No longer does a Hook after releasing a Level 3 Charge after jumping from a ledge, now does a Golf Swing.
+No longer does a Super Pound after releasing a Level 3 Charge after jumping from a ledge, now does a Golf Swing.
 
 Bowguns:
 Pellet 1/2/3 now have Motion Values of 11/9/9.
