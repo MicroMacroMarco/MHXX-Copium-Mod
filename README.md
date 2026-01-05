@@ -10,33 +10,9 @@ NekotagaYuhatora, Fandirus, and Phemeto for helping out by explaining a lot of P
 Godhi and Drakesmalice/Vandreydra for hearing me out on GL and HH changes respectively, even if I may not have listened much.
 AsteriskAmpersand and the rest of the MHModding community (Discord Server: https://discord.gg/gJwMdhK) for generally being there.
 Jin Furai and his discord server members (link: https://discord.gg/7yEUUwA) for also being around tolerating my random bullshit.
-Aradi147 for originally making Cope Mod. 
+Aradi147 for originally making Cope Mod. https://github.com/Aradi147/MHGUCope/tree/main
 Vaccaria for fixing Blast Dash in the original Cope Mod.
 
-FAQs:
-Q1) What does this work on?
-A1) MHGUCope Public Release works on Monster Hunter Generations Ultimate (western release) for the Nintendo Switch. Either on a modded switch or on an emulator (Ryujinx).
-MHGUCope 3DS Public Release works on Monster Hunter XX (Japanese version, english translation based) for the Nintendo 3DS. This would also work on a modded 3DS or emulator (Citra).
-
-Q2) Does this work on the 3DS Japanes MHXX or the Japanese MHXX-HD for the switch?
-A2) MHGUCope 3DS Public Release should work on the Japanese MHXX, since its the same base game as the translated version, but due to the fact that it uses the translation as base, the game will be at least partially translated by using it. Additional issues might occur.
-MHXX Switch Ver or HD, I'm not sure how it's called, is not currently supported or tested.
-
-Q3) How do I use this?
-A3-Switch) Download MHGUCope Public Release, and Run CFW on your switch and follow the guides to install layeredfs mods (I imagine randomized pokemon games are the most popular, the method should be the same so look that up) or set up Ryujinx and copy the files to the mod folder. Should be a simple copy-paste process.
-A3-3DS) Download MHGUCope 3DS Public Release and run luma3ds (or whatever's the current 3ds cfw) and look up a guide for running layeredfs mods. Alternatively set up MHXX on Citra and use the supported mod folder. Should still be a mostly cope-paste process.
-
-Q4) Can I play multiplayer\online with this?
-A4-Switch) I have not tested it much, but in theory, yes. Please don't play online (ryujinx or on an actual nintendo switch) with people that don't know that you're running a mod though, some people have very strong feelings about this.
-A4-3DS) Yeah
-
-
-Q5) Can I get banned for playing this online?
-A5-Switch) I haven't tested it myself, but I'm assuming yes. Going online with a modded switch on any capabity is a ban risk.
-A5-3DS) Probably not. Nintendo does not seem to give a damn about whats going on the 3DS servers, I've seen people run fully pirated games online on different region 3DSs without running into any trouble with Nintendo. Still, play online at your own risk.
-
-Q6) Isn't this just a cheat?
-A6) 
 MHGUCope Changes:
 
 All MV changes for non-art attacks are also art build up changes.
