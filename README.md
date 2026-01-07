@@ -7,6 +7,8 @@ Aradi147 for originally making Cope Mod. https://github.com/Aradi147/MHGUCope/tr
 
 Vaccaria for fixing Blast Dash in the original Cope Mod.
 
+Potobc for the Weakness Icons https://gamebanana.com/mods/488552
+
 ## How to install the Copium Mod:
 
 1- Download the latest release available
