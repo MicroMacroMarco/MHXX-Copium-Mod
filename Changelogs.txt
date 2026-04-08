@@ -7,6 +7,9 @@ Weapon, Serrated Glace now has 0% affinity instead of -10% affinity.
 
 Lance:
 All styles now has Striker's 3rd poke instead of the Long 3rd poke.
+Alchemy Lance:
+-Brought back the R + A for Counter-Thrust
+-Removed the R + X + A for Ground Charge
 
 Hammer Striker:
 Now has a infinite Strong Pound combo with X.
