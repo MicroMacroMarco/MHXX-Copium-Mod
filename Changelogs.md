@@ -173,3 +173,156 @@ Changelogs
 	
 ## Heavy Bowgun
 	Goldcannon 1-3 can load normal/pierce/pellet/crag/clust 1-3 without any skills
+	
+# Alchemy Weapon Changes
+	Most Attacks now give 5 Alchemy Charge per 1 Motion Value. Needing 600 MV in order to build one Alchemy Gauge/Bar.
+	Hunter Arts and Attacks mentioned below get a larger increase in Alchemy generation that allows you to generate multiple Alchemy Gauges/Bars.
+	> There are some exceptions to the above since there isn't any overflow so all single hit HA are only able to give 1 Alchemy Gauge/Bar
+	> HA where the damage is focused on a single or few attacks (marked with *) will have a more even spread while still giving higher MV moves more gauge gen.
+
+	NOTE: A hunter needs 3000 Alchemy Charge to fill up a single Alchemy Gauge/Bar.
+	> This is the default value and unchanged in Cope and Copium.
+
+`Name - New Alchemy Charge Value`
+## Greatsword
+	Alchemy side slash - 1,050
+### Hunter Arts
+	Ground Slash - 4500/5,250/6000
+	Lion's Maw 450/900/1500
+	Brimstone Slash 3000 (single hit)
+	Moonbreaker* 3000/4500/6000
+
+## Longsword
+	Spirit Slash I - 300
+	Spirit Slash II - 300
+	Spirit Slash III - 150+150+300
+	Spirit Roundslash - 600
+	Red Spirit Roundslash - 900
+### Hunter Arts
+	Sakura Slash - 3750/4500/5250
+	Unhinged Spirit - 1500/2250/3000
+	Critical Juncture - 3000 (single hit)
+
+## Sword and Shield
+	Roundslash - 450
+### Hunter Arts
+	Swords Dance - 4500/6000/7500
+	Round Force - 750/1500/2250
+	Shoryugeki* - 3000/4500/6000
+	Chaos Oil - 3000 (single hit)
+
+## Dual Blades
+	Arch Hurricane Dance - 750
+	Demon Dance - 900
+### Hunter Arts
+	Blood Wind - 6000/7500/9000
+	Aerial Slam* - 4500/5250/6000
+	Spiral Slash - 4500/5250/6000
+
+## Hammer
+	Golf Swing - 750
+	Charge 1 - 300
+	Charge 2 - 600
+	Charge 3 Idle - 900
+### Hunter Arts
+	Spinning Meteor* - 4500/6000/7500
+	Provoke - 3000 (single hit)
+	Typhoon Trigger - 4500/5250/6000
+	Impact press - 150 per hit
+
+## Hunting Horn
+	Recital Right Sweep - 450
+	Recital Kick - 300
+	Recital Back Swing - 450
+	Encore Backswings - 900
+	Triple Encore Backswing - 1200
+	Encore Side Swings - 450
+	Double Encore Side Swings - 750
+### Hunter Arts
+	Sonic Smash - 3000/4500/6000
+	Invigoration - 600 per hit
+
+## Lance
+	Third Poke - 750
+	Counter Thrust - 450
+### Hunter Arts
+	Shield Assault - 150 per shield hit
+	Shield Assault Finishers - 1050 for both finishers
+	Corkscrew Jab - 6000/7500/9000
+
+## Gunlance
+	Slam - 600
+	Normal - 60
+	Wide - 120
+	Long - 90
+	Wyvernsfire - 1500
+### Hunter Arts
+	Dragon Blast* - 6000/7500/9000
+	Blast Dash - 750
+	Blast Dash III Aerial Slam - 1500
+	Dragon Breath - 120 per hit
+	AA Flare Full Burst - 3750(assumes load up)
+	AA Flare Wyvernsfire - 4500
+
+## Switch Axe
+	Elemental Discharge - 1500
+	Alchemy Reload - 600
+### Hunter Arts
+	Trance Slash - 9000/12000/15000
+	Trance Slash with Demon riot gives extra - 12000/4500/6000
+	Trance Slash with Tempest axe gives extra - 4500
+	Energy Charge - 750/1500/2250
+	Tempest Axe activiation - 3000
+	Tempest Axe Finisher - 1500
+
+## Charge Blade
+	SAED - 900
+	Mini Phials - 90 per explosion
+	Phials - 225 per explosion
+### Hunter Arts
+	Energy Blade - 3000 (single hit)
+	Healing Phial - 450 per Explosion
+	Ripper Shield - 3000/3750/4500
+
+## Insect Glaive [with red buff]
+	Double Lateral - 300 [450]
+	Kinsect Spin - 600
+### Hunter Arts
+	Extract Hunter - 3000 (single hit)
+	Swarm - 150 per hit
+	Bug Blow* - 4500/5250/6000, Swarm gives an extra gauge (single hit)
+	Bug Majeure - 600 per spin combo (1200 if you count the kinsect spin)
+
+## Bowguns
+### LBG Hunter Arts
+	Bullet Geyser - 300/600/900
+	Rapid Fire Rain - 450 per shot (6750/8100/9450 if you hit all shots)
+	Charge Shot - 300/450/600 (refers to shot level)
+### HBG Hunter Arts
+	Super Nova* - 6000 (3000 for shot and 3000 for explosion)
+	Void Piercer - 3000 (single hit)
+
+## Bow
+	Arrows - 30/60/150/240/300 depending on shot level
+	Arc Shot - 450
+### Hunter Arts
+	Triple Volley - 4500/6000/7500
+	Blade Wire - 60/150/300/450 per hit
+ 
+# General Alchemy Changes
+## SP
+	SP level 2 Alchemy Gauge Usage Requirement increased - 2 > 3
+	SP level 3 Alchemy Gauge Usage Requirement increased - 5 > 9
+	SP level 4 Alchemy Gauge Usage Requirement increased - 12 > 15
+
+## Items
+	Maximum Capacity of Alchemy Slick changed - 1 > 3
+	Maximum Capacity of Alchemy Fireball changed - 3 > 5
+	Alchemy Food amount recieved changed - 1 > 4
+	Alchemy Immunizer amount recieved changed - 1 > 2
+	Alchemy Sonic Bomb is now instant instead of the 4 second wait time
+	Alchemy Remedy now has a 2 second wait time instead of 8 seconds.
+### Alchemy Slick Combines
+	Alch Whetstones combine chance for 6/7/8 changed - 50/30/20 > 25/50/25
+	Alch Food combine chance for 6/7/8/9/10 changed - 20/20/20/20/20 > 15/20/30/20/15
+	Alch Earplugs now always combines to 3 instead of 2-3
