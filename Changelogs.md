@@ -32,6 +32,7 @@ Changelogs
 	Ground Slash 1/2 required Hunter Art Gauge - 630/670 [956/1007] > 420/500 [704/800]
 	Ground Slash 3 - 50+22+22+22+22 > 75+25+25+25+25
 	Moonbreaker 1/2/3 - 60/12+70/10+12+70 > 65/12+85/10+12+115
+		Moonbreaker 1/2/3 Stagger modifiers - 1.5/0.9+2/0.9+0.9+2.5 > 2/0.9+2.25/0.9+0.9+2.5
 
 ## Sword And Shield
 	Valor backflip - 14 > 20
@@ -125,6 +126,8 @@ Changelogs
 	Normal 1/2/3 - 6/12/10 > 8/14/14
 	Cannon 1/2 - 5/7 > 20/30
 	Pellet 1/2/3 - 5/5/5 > 11/9/9
+	Stone Shots - 10 > 14
+	Alchemy Shot - 10 > 14
 	Valor LBG step shot - 10 > 16
 		KO Build up - 10 > 16
 		Exhause Build up - 10 > 16
@@ -132,6 +135,8 @@ Changelogs
 		KO Build up - 7 > 10
 		Exhaust Build up - 7 > 10
 ### Hunter Arts
+	LBG Rapid Fire Rain MVs per shot - 6 > 14
+	
 	HBG Super Nova I - {40 + 40 x (TrueRaw x 0.0075) [Center]} + {36 + 36 x (TrueRaw x 0.0075) [Edge]} True Damage > {130 + 130 x (TrueRaw x 0.0075) [Center]} + {115 + 115 x (TrueRaw x 0.0075) [Edge]} True Damage
 	HBG Super Nova II - {40 + 40 x (TrueRaw x 0.015) [Center]} + {15 + 15 x (TrueRaw x 0.015) [Edge]} True Damage > {130 + 130 x (TrueRaw x 0.015) [Center]} + {45 + 45 x (TrueRaw x 0.015) [Edge]} True Damage 
 	HBG Super Nova III - {45 + 45 x (TrueRaw x 0.02) [Center]} + {5 + 5 x (TrueRaw x 0.02) [Edge]} True Damage > {135 + 135 x (TrueRaw x 0.02) [Center]} + {15 + 15 x (TrueRaw x 0.02) [Edge]} True Damage
@@ -174,6 +179,183 @@ Changelogs
 ## Heavy Bowgun
 	Goldcannon 1-3 can load normal/pierce/pellet/crag/clust 1-3 without any skills
 	
+	
+# Ailment Modifiers
+	All Attacks now have varying Ailment Modifiers based on their Motion Values
+	> TLDR: The bigger the hit, the bigger the element/status damage
+### Greatsword
+	Side Slap - 1 > 0.7
+	Charge 0/1/2/3  - 1/1/1/1 > 1,25/1,6/1,8/2,1
+	Strong Charge 0/1/2/3 - 1/1/1/1 >1.6/1.8/2/2.3
+	Strong Side Slash 0/1/2/3 - 1/1/1/1 > 1.4/1.5/1.6/1.8
+	Aerial Draw Slash - 1 > 1.5
+	Aerial charge 0/1/2/3 - 1/1/1/1 > 1.3/1.5/1.7/1.9
+	Adept Upswing charge 0/1/2/3 - 1/1/1/1 > 1.2/1.35/1.5/1.7
+	Valor Draw Slash 0/1/2/3 - 1/1/1/1 > 1.3/1.5/1.7/2
+	Valor Charge Dash 0/1/2/3 - 1/1/1/1 > 1.5/1.7/1.9/2.2
+	Alchemy side slash - 1 > 2
+
+	All other attacks get a 1.2 ailment modifier
+### Hunter Arts
+	Ground Slash 1/2/3 - 1+1x2/1+1x3/1+1x4 > 1.8+1x2/2.1+1x3/2.4+1x4
+	Lion's Maw 1/2/3 - 1/1/1 > 1.4/1.5/1.6
+	Brimstone Slash 0/1/2/3 - 1/1/1/1 > 2.5/3.5/4.5/6
+	Moonbreaker 1/2/3 - 1/1+1/1+1+1 > 1.6/1+1.9/1+1+2.2
+
+## Longword
+	Spirit Slash III - 1+1+1 > 1+1+1.3
+	Spirit Roundslash - 1 > 1.7
+	Red Aura Spirit Rounslash - 1 > 2
+	Aerial Spirit Slash III - 1+1+1 > 1+1+1.3
+	Adept Spirit Reckoning - 1+1 > 0.5+2.5
+	Valor Spirit Reckoning - 1+1 > 0.5+2
+
+	All Other Spirit Slashes get a 1.3 ailment mod
+	All Other Normal Attacks get a 1.1 ailment mod
+### Hunter Arts
+	Sakura Slash blade attacks - 1 > 1.5
+	Critical Juncture 1/2/3 - 1+1+1 >  3/4/5
+	
+## Sword and Shield
+	Strong Side Slash - 1 > 1.2
+	Strong Up Slash - 1 > 1.2
+	Roundslash - 1 > 1.3
+	Backstep Charge Attack - 1+1 > 1.2+1.5
+	Adept Backstep Counter - 1 > 1.6
+	Valor Backflip Followup - 1 > 1.3
+	Valor Round Slashes - 1+1 > 1.2+1.3
+	
+	All Other Attacks get a 1.1 ailment mod
+### Hunter Arts
+	Sword Dance hits - 1 > 1.2
+	Sword Dance finisher - 1 > 2
+
+## Dual Blades
+	Arch Double Jumping Slashes - 1 > 1.2
+	Arch Hurricane Dance - 1x4 + 1x2 > 1.2x4 + 1.4x2
+	Demon Dance - 1 + 1x8 + 1 + 1x2 > 1.3 + 0.85x8 + 0.9 + 1.5x2
+	Spinning Slashes - 1x4 + 1x2 > 0.8x4 + 0.9x2
+	Adept/Valor Spinning Slashes - 1x4 + 1x2 > 0.7x4 + 0.8x2
+	Adept Demon/Arch Slashes - 1 + 1 + 1x2 > 0.9 + 1 + 0.8x2
+	Valor Demon Dance First hits - 1 + 1 > 1.3 + 1.3 *(remaining hits are the same as Demon Dance)*
+	Valor Counter - 1x2 + 1x2 > 1.2x2 + 1x2
+
+	All Other Attacks in Archdemon mode get a 1.1 ailment mod
+	*Valor Shares ailement mods with Archdemon and Demon mode, all changes also apply to Valor*
+### Hunter Arts
+	Bloodwind Spin - 1 > 1.1
+	Spiral Slash Spin - 0.5 > 1
+	Spiral Slash Finisher - 1 > 1.5
+
+## Hammer
+	Golf Swing - 1 > 2
+	Charge 2 - 1 > 1.6
+	Charge 3 Idle - 1+1 > 0.5+2
+	Charge 3 Spinning Bludgeon hits - 1 + 1x4 > 1 + 0.8x4
+	Charge 3 Spinning Bludgeon Weak Finisher - 1 > 1.4
+	Charge 3 Spinning Bludgeon Hook - 1 > 1.6
+	Charge 3 Spinning Bludgeon Golf Swing - 1 > 2
+	Strike Charge 3 - 1+1 > 0.6+.2
+	Adept Idle Strong Charge 3 - 1+1 > 0.6+2.2
+	Adept Mocing Strong Charge 3 - 1+1 > 0.5+1.9
+	Valor Charge II - 1/1 > 1.4/1.7
+	Valor Charge III - 1+1/1+1 > 0,5+1.9/0.6+2.2
+
+	All other attacks get an ailment change get a +0.1 ailment mod per 10 Motion Value
+### Hunter Arts
+	Spinning Meteor Spins - 1 > 1.2
+	Spinning Meteor Finisher - 1/1/1 > 2.5/3/3.5
+	Typhoon Trigger Finisher - 1/1/1 > 1.5/1.75/2
+
+## Hunting Horn
+	Valor Recital - 1+1 > 1.2+1.2
+	All Regular Attacks get a 1.2 ailment mod
+	All Other Recitals get a 1.4 ailment mod
+
+## Lance
+	Uncharged Counter Thrust - 1 > 1.15
+	Charge Counter Thrust - 1 > 1.7
+	Charge hit - 1 > 0.8
+	All Charge Finishers - 1 > 1.6
+
+	All other attacks get an ailment change get a +0.1 ailment mod per 10 Motion Value
+### Hunter Arts
+	Shield Assault Charge Lance Finisher - 1 > 1.8
+	Corkscrew Jab 1/2/3 - 1/1/1 > 1.6/1.45/1.3
+
+## Gunlance
+	Thrust - 1 > 1.2
+	3rd Thrust - 1 > 1.3
+	Running Upswing - 1 > 1.3
+	Upswing - 1 > 1.3
+	Slam/Valor Slam - 1 > 1.6
+	Guard Thrust - 1 > 1.1
+	Jumping Thurst - 1 > 1.3
+	Jumping Slam - 1 > 1.6
+	Adept/Valor Reload - 1 > 1.4
+	Adept Slam - 1 > 1.6
+
+## Switch Axe
+	Wild Swing hits 1/2/3+ - 1/1/1 > 0.9/0.95/1
+### Sword Attacks
+	Elemental Discharge Ticks - 1 > 0.8
+	Power Phial ED Explosion - 1 > 2
+	Power Phial ED Explosion cancel - 1 > 1.5
+	Element/Status Phial ED Explosion - 1.5 > 3
+	Element/Status Phial ED Explosion cancel - 1.15 > 1.5
+	Exhaust Phial ED Explosion - 2 > 3
+	Exhaust Phial ED Explosion cancel - 1.3 > 1.5
+	Power Phial Valor Double ED Explosion - 0.6 + 0.8 > 1 + 1
+	Element/Status Phial Valor Double ED Explosion - 0.8 + 1 > 1 + 1.5
+	Exhaust Phial Valor Double ED Explosion - 1 + 1.4 > 1 + 1
+
+	All Sword attacks get a 1.2 ailment mod
+### Hunter Arts
+	Trance Slash Normal hits - 1 > 2
+	Trance Slash Elemental ticks - 1 > 1.5
+	Trance Slash Elemental Explosion - 1 > 4
+
+## Charge Blade
+	Shield Thrust - 1+1 > 0.5+0.6
+	All other Sword attacks get a 0.85 ailment mod due to element buffs
+
+	AED (No Phials) - 1 > 1.5
+	AED - 1 > 2
+	SAED (No Phials) - 1+1 > 0.5+2
+	SAED - 1+1 > 0.5+3	
+	Aerial AED (No Phials) - 1 > 1.5
+	Aerial AED - 1 > 2
+	Aerial SAED (No Phials) - 1 > 2
+	Aerial SAED - 1 > 3
+	Valor SAED (No Phials) - 1+1 > 0.5+1.5
+	Valor SAED - 1+1 > 0.5+2
+### Hunter Arts
+	Energy Blade I/II/III 0 Phials - 1/1/1 > 1/1/2
+	Energy Blade I/II/III 1-3 Phials - 1/1/1 > 2/3/4
+	Energy Blade I/II/III 4-6 Phials - 1/1/1 > 4/5/6
+	Energy Blade I/II/III 7-9 Phials - 1/1/1 > 6/7/8
+	Energy Blade I/II/III 10 Phials - 1/1/1 > 8/9/10
+
+## Insect Glaive
+> Attacks with * are attacks with Red Extract
+
+	Tornado Slash - 1+1 > 1.2+1.4
+	Jumping Slash* - 1+1 > 1.4+1.2
+	Aerial Spin Assault*  - 1 + 1xn > 1.4 + 1.2xn
+	Adept Roundhouse - 1 > 1.4
+
+	All Other Attacks with Red Extract get a 1.2 ailment mod
+### Hunter Arts
+	Bug Blow I/II/III Finisher - 1/1/1 > 2/3/4
+
+## Bowguns
+	Elemental Shots 1/2 - 45/58% > 60/75%
+	Piercing Element 1/2 - 20x3/23x5 > 27x3/28x5
+	Dragon Shots 1/2 - 40x5/48x5% > 55x5/70x5%
+
+## Bow
+	Elemental coatings 1/2 maximum carry in pouch - 20 > 50
+
 # Alchemy Weapon Changes
 	Most Attacks now give 5 Alchemy Charge per 1 Motion Value. Needing 600 MV in order to build one Alchemy Gauge/Bar.
 	Hunter Arts and Attacks mentioned below get a larger increase in Alchemy generation that allows you to generate multiple Alchemy Gauges/Bars.
@@ -183,7 +365,6 @@ Changelogs
 	NOTE: A hunter needs 3000 Alchemy Charge to fill up a single Alchemy Gauge/Bar.
 	> This is the default value and unchanged in Cope and Copium.
 
-`Name - New Alchemy Charge Value`
 ## Greatsword
 	Alchemy side slash - 1,050
 ### Hunter Arts
