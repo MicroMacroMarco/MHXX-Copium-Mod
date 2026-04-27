@@ -502,6 +502,7 @@ Changelogs
 	Maximum Capacity of Alchemy Fireball changed - 3 > 5
 	Alchemy Food amount recieved changed - 1 > 4
 	Alchemy Immunizer amount recieved changed - 1 > 2
+Alchemy Fireball damage - 60 > 350
 	Alchemy Sonic Bomb is now instant instead of the 4 second wait time
 	Alchemy Remedy now has a 2 second wait time instead of 8 seconds.
 ### Alchemy Slick Combines
