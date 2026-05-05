@@ -502,10 +502,194 @@ Changelogs
 	Maximum Capacity of Alchemy Fireball changed - 3 > 5
 	Alchemy Food amount recieved changed - 1 > 4
 	Alchemy Immunizer amount recieved changed - 1 > 2
-Alchemy Fireball damage - 60 > 350
+	Alchemy Fireball damage - 60 > 350
 	Alchemy Sonic Bomb is now instant instead of the 4 second wait time
 	Alchemy Remedy now has a 2 second wait time instead of 8 seconds.
 ### Alchemy Slick Combines
 	Alch Whetstones combine chance for 6/7/8 changed - 50/30/20 > 25/50/25
 	Alch Food combine chance for 6/7/8/9/10 changed - 20/20/20/20/20 > 15/20/30/20/15
 	Alch Earplugs now always combines to 3 instead of 2-3
+
+# Valor Changes
+	Valor Generation has been changed to give 100% Valor Uptime when being aggressive enough
+	Moves only accessible in valor mode and Hunter Arts have been given increased valor generation which allows for 100% uptime
+	Getting to valor mode has been made a bit harder to give more incentive to staying in valor mode
+
+	NOTE: 55 Valor Gauge = 1 second of Valor
+		This is unchanged from the base game
+
+## Greatsword
+	Regular Attacks 55
+	Valor Draw Charge 247/330/413/495
+	Valor Strong Charge 413/495/577/660
+	Valor Charge Dash 330/413/495/577
+	Valor Side Slash 165/247/330/413
+	Ground Slash 440/495/550
+	Lion's Maw 220/247.5/275
+	Brimstone Slash 495/550/660/825 (refers to charge level)
+	Moonbreaker 247.5/330/412.5
+
+## Longsword
+	Regular Attacks - 33
+	Jumping Valor Spirit Slash II - 110
+	Valor Spirit Slash I - 165
+	Valor Spirit Slash II - 165
+	Valor Spirit Slash III - 165
+	Valor Spirit Reckoning - 330
+	Valor Counter - 220
+### Hunter Arts
+	Sakura Slash - 330/413/495
+	Critical Juncture - 413/495/577
+	Unhinged Spirit - 220
+
+## Sword and Shield
+	Regular attacks - 15
+	Valor Backflip - 110
+	Backflip Followup - 165
+	Valor Rushing Slashes - 220
+	Valor Round Slashes - 275
+### Hunter Arts
+	Sword Dance - 413/495/577
+	Round Force - 137/165/193
+	Shoryugeki - 330/412.5/495
+	Chaos Oil - 247/330/413
+
+## Dual Blades
+	Regular attacks - 9 per hit
+	Valor Six-Way Slash - 330
+	Valor Double Jumping Slashes - 330
+	Valor Spinning Slashes - 165
+	Valor Dash Counter - 275
+	True Demon Dance - 660
+### Hunter Arts
+	Blood Wind - 495/605/715
+	Aerial Slam - 330/413/495
+	Spiral Slash - 330/413/495
+
+## Hammer
+	Regular Attacks - 55
+	Valor Charge 1 - 110/220
+	Valor Charge 2 - 165/275
+	Valor Charge 3 - 275/440
+	Same values for Valor Charge Aerial Attacks
+### Hunter Arts
+	Spinning Meteor - 495/577/660
+	Provoke - 165/247/330
+	Typhoon Trigger - 330/413/495
+	Impact press - 14 per hit
+
+## Hunting Horn
+	Regular Attacks - 55
+	Flourish - 165
+	Recital Right Sweep - 110
+	Recital Kick - 110
+	Recital Back Swing - 110
+	Encore Backswings - 220
+	Triple Encore Backswing - 330
+	Left/Right Encore Side Swings - 110/165
+	Left/Right Double Encore Side Swings - 220/275
+	Valor Recital - 275
+	Valor Encore - 440
+### Hunter Arts
+	Sonic Smash - 413/495/660
+	Invigoration - 247 per hit
+
+## Lance
+	Regular Attacks - 36
+	Strong thrust - 83
+	Charge - 11
+	Charge Finishers - 110
+	Valor Shield Bash - 137
+	Uncharged Counter Thrust - 83
+	Charged Counter Thrust - 275
+### Hunter Arts
+	Shield Assault - 83 per shield hit
+	Shield Assault Finiters - 165
+	Corkscrew Jab - 330/413/495
+
+## Gunlance
+	Regular Attacks - 33
+	Valor Slam - 165
+	Valor Wyvernsfire - 715
+	Full Burst - 44/88/66 per shelling
+	Rapid Shelling - 83/165/124 per shelling
+### Hunter Arts
+	Dragon Blast - 440/495/550
+	Blast Dash - 165/165/247
+	Dragon Breath - 20 per hit
+	AA Flare Full Burst - 413 (assumes load up)
+	AA Flare Wyvernfire - 550
+
+## Switch Axe
+	Regular Axe attacks - 36
+	Regular Sword Attacks - 25
+	Wild Swing - 28 per hit
+	Double Slash - 165
+	Double Slash after dodge - 110
+	Wild Sweep - 330
+	Double Discharge - 330
+### Hunter Arts
+	Trance Slash - 825/907/990
+	Trance Slash with Demon riot gives extra - 165/247/330
+	Trance Slash with Tempest axe gives extra - 330
+	Energy Charge - 83/165/247
+	Tempest Axe - 220 for activation, 220 for finisher
+
+## Charge Blade
+	Regular Sword Attacks - 22
+	Regular Axe Attacks - 44
+	ED III - 275
+	Valor AED - 275
+	Valor SAED - 385
+	Phials - 28 per explosion
+	SAED Explosion - 220
+### Hunter Arts
+	Energy Blade 0 phial - 165/247/330
+	Energy Blade 1-3 phials - 330/413/495
+	Energy Blade 4-6 phials - 495/577/660
+	Energy Blade 7-9 phials - 660/743/825
+	Energy Blade 10 phials - 825/907/990
+	Ripper Shield - 247/330/413
+
+## Insect Glaive [Red Extract]
+	Regular Attacks - 12 per hit
+	Marker Bash - 55
+	Triple Roundhouse - 110 [220]
+	Double Jumping Strikes - 165 [275]
+	Kinsect Regular Attack - 55
+	Kinsect Charge Attack - 110
+	Kinsect Valor Attack - 220
+### Hunter Arts
+	Extract Hunter - 247/330/413
+	Swarm - 28 per hit
+	Bug Blow - 330/413/495
+	Bug Majeure - 330 per spin combo
+
+## Bowguns
+	Normal - 13/22/22
+	Pierce - 8/7/6 per hit
+	Pellet - 8/7/6 per hit
+	Element - 31/39
+	Pierce Element - 15/14 per hit
+	Dragon - 14/17 per hit
+	Crag - 69/74/80
+	Clust - 69/74/80
+	Status - 39/47
+	Force - 31/39
+	Long - 33/42
+	Dazzling - 30
+	Heavy - 33/42
+	Sting - 30
+	Stone - 30
+	Cannon - 55/66
+	Triblast - 20 per hit
+	Slicing - 14/11 per hit
+	Shrapnel - 18 per hit
+	Wyvern - 110
+	Valor Shot - 26
+### Hunter Arts
+	Bullet Geyser - 44/55/72
+	Rapid Fire Rain - 11 per shot (165/198/231 if you hit all shots)
+	Charge Shot - 8/17/28 per shot level
+	Super Nova - 83/96/110
+	Void Piercer - 83/96/110
