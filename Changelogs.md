@@ -693,3 +693,9 @@ Changelogs
 	Charge Shot - 8/17/28 per shot level
 	Super Nova - 83/96/110
 	Void Piercer - 83/96/110
+
+## Bow
+	Arrows 60.5/99/127/148/165 depending on shot level
+### Hunter Arts
+	Triple Volley 385/495/550
+	Blade Wire 66/82/99/124 per hit
