@@ -177,6 +177,16 @@ Changelogs
 	Addled Beers's sleep ailment - 2/2/2/2/3/4 > 5/8/12/15/18/22
  	Cercatore Talea's sleep - 7/8/9 > 22/24/26
 		Sleep now matches poison
+
+## Gunlance
+	Progenesis - Wide 4 > Wide 5
+	Zvolta Annihilator - Wide 4 > Wide 5
+	Glavenus Brewanova - Wide 4 > Wide 5
+	Imperial Snowlance - Wide 4 > Wide 5
+	Thunderbolt Bellow - Normal 4 > Normal 5
+	Powderkeg Nova - Normal 4 > Normal 5 
+	La Forteresse - Normal 4 > Normal 5
+	
 	
 ## Charge Blade
 	Boltreaver CB phial type changed from Impact to element
