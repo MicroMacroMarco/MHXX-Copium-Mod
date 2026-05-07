@@ -38,6 +38,35 @@ Changelogs
 ## Sword And Shield
 	Valor backflip - 14 > 20
 
+## Hammer
+	Side Swing
+		KO Build up - 22 > 30
+	Charge Level 3 Idle
+		KO Build up - 5+27 > 5+35
+	Charge Level 3 Sping
+		KO Build up - 2 + 2x4 > 10 + 8x4
+		Exhaust Build Up - 2 + 2x4 > 8 + 4x4
+	Striker Charge Level 3 Idle
+		KO Build up - 5+17 > 5+35
+	Aerial Smash
+		KO Build up - 15 > 25
+	Adept Idle Strong Charge 3
+		KO Build up - 10+27 > 10+40
+	Adept Moving Strong CHarge 3
+		KO Build up - 10+27 > 10+35
+	Valor Charge 3
+		KO Build up - 10+50/10+60 > 10+50/10+65
+### Hunter Arts
+	Spinning Meteor spins
+		Exhaust Build Up - 15 > 18
+	Spinning Metoer set up spins
+		Exhaust Build Up - 10 > 15
+	Spinning Metoer Finishers
+		Exhaust Build Up - 30/30/40 > 40/55/70
+	Typhoon Trigger
+		KO Build up - 2x6+40+60/100/125 > 5x6+50+100/120/140
+		
+
 ## Hunting Horn
 	All Attack MVs are increased by 30%
 ### Hunter Arts
