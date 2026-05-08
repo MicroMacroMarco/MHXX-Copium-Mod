@@ -30,7 +30,6 @@ Changelogs
 	Aerial Style Charges - 57/66/75 > 65/80/100
 	Aerial Style Ground Drawslash - 48 > 65
 ### Hunter Arts
-	Ground Slash 1/2 required Hunter Art Gauge - 630/670 [956/1007] > 420/500 [704/800]
 	Ground Slash 3 - 50+22+22+22+22 > 75+25+25+25+25
 	Moonbreaker 1/2/3 - 60/12+70/10+12+70 > 65/12+85/10+12+115
 		Moonbreaker 1/2/3 Stagger modifiers - 1.5/0.9+2/0.9+0.9+2.5 > 2/0.9+2.25/0.9+0.9+2.5
@@ -170,6 +169,71 @@ Changelogs
 	HBG Super Nova I - {40 + 40 x (TrueRaw x 0.0075) [Center]} + {36 + 36 x (TrueRaw x 0.0075) [Edge]} True Damage > {130 + 130 x (TrueRaw x 0.0075) [Center]} + {115 + 115 x (TrueRaw x 0.0075) [Edge]} True Damage
 	HBG Super Nova II - {40 + 40 x (TrueRaw x 0.015) [Center]} + {15 + 15 x (TrueRaw x 0.015) [Edge]} True Damage > {130 + 130 x (TrueRaw x 0.015) [Center]} + {45 + 45 x (TrueRaw x 0.015) [Edge]} True Damage 
 	HBG Super Nova III - {45 + 45 x (TrueRaw x 0.02) [Center]} + {5 + 5 x (TrueRaw x 0.02) [Edge]} True Damage > {135 + 135 x (TrueRaw x 0.02) [Center]} + {15 + 15 x (TrueRaw x 0.02) [Edge]} True Damage
+
+# Hunter Art Cost Changes
+	NOTE: All Motion Values and Hunter Art Generation are equal
+		10 Motion Value = 10 Hunter Art Generated
+## General Hunter Arts
+	Heal Gain - 830 > 570
+		SP - 1196 > 884
+	Hunter's Oasis - 1330 > 800
+		SP - 1796 > 1160
+	Frenzy Fever - 830 > 550
+		SP - 1196 > 860
+	Castle Walls - 830 > 550
+		SP - 1196 > 860
+	Fortress Walls - 1080 > 860
+		SP - 1496 > 1232
+	Arisen Pheoninx - 1080 > 860 
+		SP - 1496 > 1232
+
+## Greatsword
+	Ground Slash 1 - 630 > 420 
+		SP - 956 > 704
+	Ground Slash 2 - 670 > 500 
+		SP - 1004 > 800
+	Ground Slash 3 - 830 > 690 
+		SP - 1196 > 1028
+		
+## Sword and Shield
+	Sword Dance 3 - 1250 > 1080 
+		SP - 1700 > 1496
+		
+## Dual Blades
+	Wolf's Maw 1 - 1250 > 1170 
+		SP - 1700 > 1604
+	Wolf's Maw 2 - 1500 > 1280 
+		SP - 2000 > 1736
+	Wolf's Maw 3 - 1670 > 1400 
+		SP - 2204 > 1880
+
+## Hunting Horn
+	Sonic Smash 1 - 930 > 770 
+		SP - 1196 > 1124
+	Sonic Smash 2 - 1000 > 810 
+		SP - 1400 > 1172
+	Sonic Smash 3 - 1170 > 850 
+		SP - 1604 > 1120
+
+## Lance
+	Healing Shield 1 - 670 > 590 
+		SP - 1004 > 908
+	Healing Shield 2 - 750 > 670 
+		SP - 1100 > 1004
+	Healind Shield 3 - 830 > 750 
+		SP - 1196 > 1100
+		
+## Gunlance
+	Blast Dash 2 - 290 > 280 
+		SP - 548 > 536
+	Blast Dash 3 - 330 > 310 
+		SP - 596 > 572
+		
+## Bow
+	Haste Rain 2 - 1000 > 920 
+		SP - 1400 > 1304
+	Haste Rain 3 - 1080 > 1010 
+		SP - 1496 > 1412
 
 
 # Weapon Changes
