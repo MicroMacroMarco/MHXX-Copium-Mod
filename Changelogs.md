@@ -802,3 +802,111 @@ Changelogs
 ### Hunter Arts
 	Triple Volley 385/495/550
 	Blade Wire 66/82/99/124 per hit
+
+# Prowler Changes
+## Stat Changes
+	All Cat Weapon Raw and Element/Status increased by 50%
+	Gathering Cat base defense mod - 0.6 > 0.85
+	Bomber Cat base defense mod - 0.85 > 0.6
+
+	All Cats Bomb Modifier multiplied by 4
+		Bomber Bomb mod - 1.2 > 4.8
+		Guard Bomb mod - 1.1 > 4.4
+		Charisma Bomb mod - 1.0 > 4.0
+		Fighter Bomb mod - 0.9 > 3.6
+		Assist Bomb mod - 0.9 > 3.6
+		Beast Bomb mod - 0.9 > 3.6
+		Healer Bomb mod - 0.7 > 2.8
+		Gathering Bomb mod - 0.7 > 2.8
+		
+## Attack Changes
+	Jumping Spinning Slash MV - 5xn > 12 + 8xn (reverted nerf from MHGen to MHGU)
+		This is the 'XXXXX' attaxk
+	Aerial Jumping Spinning Slash MV - 5xn > 8xn (reverted nerf from MHGen to MHGU)
+	Boomerush Ailment Mod - 1 + 0.5x3 > 1.2 + 0.7
+	Big Boomerush Ailment Mod - 1 + 0.5x3 > 1.2 + 0.8
+	Piercing Boomerush Ailment Mod - 1 + 0.5x3 > 1.2 + 0.7x3
+	Big + Piercing Boomerush Ailment Mod - 1 + 0.5x3 > 1.2 + 0.8x3
+	Piercing Boomerangs Ailment Mod - 0.4xn > 0.6xn
+### Beast attacks
+	Forward Slashes - 10x2 > 13x2
+		ailment modifier - 0.7x2 > 0.9x2
+	Jumping Slashes - 12x2 > 16x2
+		ailment modifier - 0.7x2 > 1.1x2
+	Triple Slashes - 8x3 > 19x3
+		ailment modifier - 0.5x3 > 1.2x3
+	Back Slashes - 11x2 > 15x2
+		ailment modifier - 0.7x2 > 1x2
+	Rushing Slashes - 5x2+7x2 > 7x2+9x2
+		ailment modifier - 0.5x2+0.5x2 > 0.8x2+0.9x2
+	Charged Rushing Slashes - 6x2+9x2 >9x2+13x2
+		ailment modifier - 0.8x2+0.8x2 > 1x2+1.2x2
+	Beast Finisher - 10x4 > 22x4
+		ailment modifier - 1x4 > 1.5x4
+	Beast Furris Wheel - 4xn > 6xn
+		ailment modifier - 0.4xn > 0.6xn
+			
+## Support Move Changes
+	Barrel Bombay cost increased - 0 > 1
+	Giga Barrel Bombay MV - 100 > 110 (reverted nerf from MHGen to MHGU)
+	Rath of Meow Flamethrower Raw MV - 8 > 4
+	Rath of Meow Flamethrower Fire damage - 2 > 15
+	Rath of Meow Cannon MV - 8 > 12
+		KO Build up added - 0 > 20
+	Rath of Meow Spike Ball MV - 10 > 20
+		KO Build up - 20 > 25
+	Stunt Cannon MV - 35 > 65
+	Chestnut Cannon MV - 40 > 50
+	Mega Boomerang Blunt - 22 > 25
+		Made to match Mega Boomerang Sever
+	Iron Transpurrter hit MV - 15 > 20
+	Iron Transpurrter throw MV - 25 > 35
+	Claw Dance MV - 12x5 + 6x8 + 40 (148 total) > 16x5 + 8x8 + 50 (194 total)
+
+## Cat Passives Cost Changes
+	Negate Confusion cost - 2 > 1
+	Felyne Protection cost - 2 > 1
+	Recovery Speed Up cost - 2 > 1
+	Guard Boost cost - 2 > 1
+	Negate Wind cost - 2 > 1
+	Wind Waker cost - 3 > 2
+	Omniresistance cost - 3 > 2
+	Nine Lives (Defense) cost - 3 > 1
+	Guts cost - 3 > 2
+	Revival Pro cost - 4 > 2
+	Extreme Defcentric cost - 4 > 2
+	Attack Up S cost - 2 > 1
+	Fanalis cost - 2 > 1
+	All Elemental Boosts cost - 2 > 1
+	Extend Fury cost - 2 > 1
+	Worlds Strongest cost - 2 > 1
+	Anger Prone cost - 2 > 1
+	KO King cost - 2 > 1
+	Bombay Boost cost - 3 > 2
+	Elemental Attack Up cost - 3 > 2
+	Last Stand cost - 3 > 2
+	Land Master cost - 3 > 2
+	Universal cost - 3 > 2
+	Baddest Cat Ever cost - 3 > 2
+	Crit Boost cost - 4 > 2
+	Triforce cost - 4 > 3
+	Status Attack Up cost - 4 > 2
+	Handicraft cost - 4 > 2
+	Nine Lives (Attack) cost - 4 > 2
+	Horn Virtuoso cost - 3 > 1
+	Pro Trapper cost - 3 > 1
+	Pilfer Boost cost - 3 > 2
+	Extend SP State cost - 3 > 2
+	Support Priority cost - 3 > 2
+	Pro Experience cost - 4 > 2	
+
+## Support Move Cost Changes
+	Health Horn gauge cost - 2 > 1
+	True Health Horn gauge cost - 3 > 2
+	Cheer Horn gauge cost - 3 > 2
+	Pitfall Purr-ison gauge cost - 4 > 3
+	Shock Purr-ison gauge cost - 4 > 3
+	Poison Purr-ision gauge cost - 5 > 3
+	Furrious gauge cost - 4 > 2
+	Pilfer gauge cost - 4 > 3
+	Plunderrang gauge cost - 4 > 3
