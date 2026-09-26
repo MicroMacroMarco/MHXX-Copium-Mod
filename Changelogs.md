@@ -601,6 +601,7 @@ Changelogs
 	SP level 4 Alchemy Gauge Usage Requirement increased - 12 > 15
 
 ## Items
+	Maximum Capacity of Alchemy Booster change - 1 > 3
 	Maximum Capacity of Alchemy Slick changed - 1 > 3
 	Maximum Capacity of Alchemy Fireball changed - 3 > 5
 	Alchemy Food amount recieved changed - 1 > 4
