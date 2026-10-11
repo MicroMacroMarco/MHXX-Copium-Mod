@@ -91,7 +91,7 @@ Changelogs
 	Shield Assault Shield Finisher - 30 > 55
 		KO Build Up - 27 > 50
 		Exhaust Build Up - 27 > 50
-	Corkscrew Jab 1/2/3 - 45x3/32x5/27x7 > 50x3/35x5/30x3
+	Corkscrew Jab 1/2/3 - 45x3/32x5/27x7 > 50x3/35x5/30x7
 	Valor Shield Bash - 20 > 25
 		KO Build Up - 27 > 35
 		Exhaust Build Up - 27 > 35
@@ -289,7 +289,7 @@ Changelogs
 	> TLDR: The bigger the hit, the bigger the element/status damage
 ### Greatsword
 	Side Slap - 1 > 0.7
-	Charge 0/1/2/3  - 1/1/1/1 > 1,25/1,6/1,8/2,1
+	Charge 0/1/2/3  - 1/1/1/1 > 1.25/1.6/1.8/2.1
 	Strong Charge 0/1/2/3 - 1/1/1/1 >1.6/1.8/2/2.3
 	Strong Side Slash 0/1/2/3 - 1/1/1/1 > 1.4/1.5/1.6/1.8
 	Aerial Draw Slash - 1 > 1.5
